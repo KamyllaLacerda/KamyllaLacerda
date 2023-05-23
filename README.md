@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Kamylla Lacerda👋😄</h1>
 <h3 align="center">A developer filled with love for what she does!</h3>
 
-<img align="right" src="https://raw.githubusercontent.com/KamyllaLacerda/KamyllaLacerda/main/img/computer.png" width="350"/>
+<img align="right" src="https://raw.githubusercontent.com/KamyllaLacerda/KamyllaLacerda/main/img/computer.png" width="450"/>
 
 <a href="https://www.linkedin.com/in/kamylla-lacerda/">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Kamylla%20Lacerda-blue"/>
